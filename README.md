@@ -30,6 +30,10 @@ To get started, follow these steps
 6. In Android Studio's Device Manager, add a virtual device (API level 28 or higher), or select it if it is already added.
 7. Run 'app' or run the `scrollCompilationBaselineProfiles()` test.
 
+## Tutorial - Android Vitals - Instant Feature Impact Detection with Split
+
+If you'd like to see how to set up the feature flags in Split UI and enjoy IFID superpowers, see the blog: [5 Steps to Instant Feature Impact Detection](https://www.split.io/blog/5-steps-to-instand-feature-impact-detection/). Since you are already looking into the code, check it out and see Split's powerful IFID capabilities in action!
+
 ## Performance Codelabs
 
 This code is based on the Android Codelab example code found at https://github.com/android/codelab-android-performance.
